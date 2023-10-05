@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![An image of @printakhil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/printakhil)](https://holopin.io/@printakhil)
 <!--
 **Printakhil/Printakhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
